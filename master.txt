@@ -1,1 +1,2 @@
 Change in master branch
+Another change in master
